@@ -275,7 +275,7 @@ const handleSubmit = async (e) => {
           <div 
             className="absolute inset-0 bg-cover bg-center opacity-20 mix-blend-overlay"
             style={{
-              backgroundImage: `url('src/media/images/width_768_q70.webp')`
+              backgroundImage: `url('media/images/width_768_q70.webp')`
             }}
           />
           <FloatingParticles />
@@ -557,7 +557,7 @@ const handleSubmit = async (e) => {
                 }}
               />
               <ImageWithFallback
-                src="src/media/images/Yango-Aplicativo-Seguranca.jpeg"
+                src="media/images/Yango-Aplicativo-Seguranca.jpeg"
                 alt="Modern car fleet"
                 className="relative rounded-3xl shadow-2xl w-full h-auto"
               />
